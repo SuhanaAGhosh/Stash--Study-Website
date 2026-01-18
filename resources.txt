@@ -1,0 +1,7 @@
+suhana|All Textbooks |Textbooks|https://drive.google.com/drive/folders/1BnQywdqhZb7Mu7dSe-3GXKD6PuvQBJzq|All textbooks soft copy.|0
+suhana|Hitesh's Notes|Senior's Notes|https://hitesh-notes.notion.site/hiteshnotes|Notes for all subjects.|0
+sushveen|Siri's Physics Cycle Notes|Senior's Notes|https://siri123blog.wordpress.com/2024/01/07/physics-cycle/||0
+sushveen|Siri's Chemistry Cycle Notes|Senior's Notes|https://siri123blog.wordpress.com/2023/10/27/chemistry-cycle/||0
+sushveen|Advaith's Notes|Senior's Notes|https://github.com/askadvaith/BTech-Notes||0
+
+suhana|Recursion|PCPS|https://www.w3schools.com/python/python_recursion.asp|Basics of Recursion.|0
